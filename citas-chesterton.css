@@ -9,10 +9,12 @@ body {
 header {
     background-color: rgb(163, 149, 142);
     padding: 0px 10px;
+    margin-top: 10px;
 }
 
 h1 {
     text-align: center;
+    margin-top: 0;
 }
 
 main {
